@@ -1,0 +1,36 @@
+{
+  "name": "darkyellow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "critical": "^1.1.0",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "less": "^2.7.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-svgmin": "^1.2.3",
+    "gulp-svgstore": "^6.1.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp.spritesmith": "^6.4.0",
+    "vinyl-buffer": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
